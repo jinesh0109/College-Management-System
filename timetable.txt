@@ -1,0 +1,20 @@
+     Day    ||   Course     ||      Faculty             ||       Time
+1   Monday       ECE104           Ashok Ranade              8:00 to 9:30
+1                MAT102           Narayan Padmanabhan       11:00 to 12:30 
+1                FCP100(Lab)      Kuntal Patel              1:00 to 4:00
+
+2   Tuesday      ENR100           Jaina Mehta               8:00 to 11:00
+2                MAT101           Divakaran sir             1:00 to 2:30
+2                COM102           Jalaj Singh               5:30 to 7:00
+
+3   Wednesday    ECE104           Ashok Ranade              8:00 to 9:30
+3                FCP100(Th)       Kuntal Patel              9:30 to 11:00
+3                MAT102           Narayan Padmanabhan       11:00 to 12:30 
+3                ENR100           Jaina Mehta               1:00 to 2:30
+
+4   Thursday     ENR100           Jaina Mehta               11:00 to 12:30 
+4                MAT101           Divakaran sir             1:00 to 2:30
+4                COM102           Jalaj Singh               5:30 to 7:00
+
+5   Friday       OOP(Lab)         Kuntal Patel              9:30 to 12:30
+                   

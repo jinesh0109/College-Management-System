@@ -1,0 +1,18 @@
+Course Description: Foundamental Of Computer Programming (FCP)
+
+Course Credit :3 
+Faculty : KuntalKumar Patel
+
+The course is aimed to give the exposure to programming paradigms and to develop the problem solving ability.
+The course would introduce the concepts of computer programming. 
+Following topics would be covered during the course:
+Problem solving using Algorithms and Flowcharts; Programming paradigms; Foundations of Python and C programming;
+Visual programming; Operators; Control statements; Input/output operations; Decision making and branching; 
+Type conversions; Collections; Functions; String; File management; Exception handling.
+
+Course Objectives
+- To introduce fundamentals of computer programming.
+- To develop problem solving and critical thinking ability.
+- To understand the process of designing and implementing computer programs to 
+solve various engineering and computing problems.
+

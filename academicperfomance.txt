@@ -1,0 +1,112 @@
+001           CSE100	 Fundamentals of Computer Programming	3	            3.5	
+001           CSE101	 Object Oriented Programming Lab	1.5	            3.7
+001           MAT101	 Discrete Mathematics	                3		    3.3
+001           ECE104     Basic electronic Circuits              3                   3.8 
+
+001           Total Semester Credits/Semester Grade Point Average (SGPA)	    3.6 
+
+
+
+002           CSE100	 Fundamentals of Computer Programming	3	            3.4	
+002           CSE101	 Object Oriented Programming Lab	1.5	            3.6
+002           MAT101	 Discrete Mathematics	                3		    3.4
+002           ECE104     Basic electronic Circuits              3                   3.7 
+
+002           Total Semester Credits/Semester Grade Point Average (SGPA)	    3.5 
+
+
+003           CSE100	 Fundamentals of Computer Programming	3	            3.3	
+003           CSE101	 Object Oriented Programming Lab	1.5	            3.5
+003           MAT101	 Discrete Mathematics	                3		    3.5
+003           ECE104     Basic electronic Circuits              3                   3.6 
+
+003           Total Semester Credits/Semester Grade Point Average (SGPA)	    3.5
+
+
+004           CSE100	 Fundamentals of Computer Programming	3	            3.9
+004           CSE101	 Object Oriented Programming Lab	1.5	            3.1
+004           MAT101	 Discrete Mathematics	                3		    3.3
+004           ECE104     Basic electronic Circuits              3                   3.6 
+
+004           Total Semester Credits/Semester Grade Point Average (SGPA)	    3.4 
+
+
+005           CSE100	 Fundamentals of Computer Programming	3	            4.0	
+005           CSE101	 Object Oriented Programming Lab	1.5	            3.7
+005           MAT101	 Discrete Mathematics	                3		    3.5
+005           ECE104     Basic electronic Circuits              3                   3.8 
+
+005           Total Semester Credits/Semester Grade Point Average (SGPA)	    3.8 
+
+
+006           CSE100	 Fundamentals of Computer Programming	3	            2.8	
+006           CSE101	 Object Oriented Programming Lab	1.5	            3.1
+006           MAT101	 Discrete Mathematics	                3		    3.4
+006           ECE104     Basic electronic Circuits              3                   3.6 
+
+006           Total Semester Credits/Semester Grade Point Average (SGPA)	    3.2 
+
+123           CSE100	 Fundamentals of Computer Programming	3	            3.00
+123           CSE101	 Object Oriented Programming Lab	1.5	            3.50
+123           MAT101	 Discrete Mathematics	                3		    3.70
+123           ECE104     Basic electronic Circuits              3                   4.00
+
+123           Total Semester Credits/Semester Grade Point Average (SGPA)	    3.55
+
+111           CSE100	 Fundamentals of Computer Programming	3	            3.00
+111           CSE101	 Object Oriented Programming Lab	1.5	            3.80
+111           MAT101	 Discrete Mathematics	                3		    3.50
+111           ECE104     Basic electronic Circuits              3                   3.00
+
+111           Total Semester Credits/Semester Grade Point Average (SGPA)	    3.33
+
+777           CSE100	 Fundamentals of Computer Programming	3	            3.00
+777           CSE101	 Object Oriented Programming Lab	1.5	            2.80
+777           MAT101	 Discrete Mathematics	                3		    3.00
+777           ECE104     Basic electronic Circuits              3                   4.00
+
+777           Total Semester Credits/Semester Grade Point Average (SGPA)	    3.20
+
+Guest           CSE100	 Fundamentals of Computer Programming	3	            0.00
+Guest           CSE101	 Object Oriented Programming Lab	1.5	            0.00
+Guest           MAT101	 Discrete Mathematics	                3		    0.00
+Guest           ECE104     Basic electronic Circuits            3                   0.00
+
+Guest           Total Semester Credits/Semester Grade Point Average (SGPA)	    0.00
+
+015           CSE100	 Fundamentals of Computer Programming	3	            3.00
+015           CSE101	 Object Oriented Programming Lab	1.5	            2.40
+015           MAT101	 Discrete Mathematics	                3		    1.90
+015           ECE104     Basic electronic Circuits              3                   3.80
+
+015           Total Semester Credits/Semester Grade Point Average (SGPA)	    2.78
+
+016           CSE100	 Fundamentals of Computer Programming	3	            3.60
+016           CSE101	 Object Oriented Programming Lab	1.5	            3.70
+016           MAT101	 Discrete Mathematics	                3		    4.00
+016           ECE104     Basic electronic Circuits              3                   2.90
+
+016           Total Semester Credits/Semester Grade Point Average (SGPA)	    3.55
+
+
+
+017           CSE100	 Fundamentals of Computer Programming	3	            3.70
+017           CSE101	 Object Oriented Programming Lab	1.5	            3.00
+017           MAT101	 Discrete Mathematics	                3		    0.00
+017           ECE104     Basic electronic Circuits              3                   0.00
+
+017           Total Semester Credits/Semester Grade Point Average (SGPA)	    1.67
+
+011           CSE100	 Fundamentals of Computer Programming	3	            4.00
+011           CSE101	 Object Oriented Programming Lab	1.5	            3.00
+011           MAT101	 Discrete Mathematics	                3		    0.00
+011           ECE104     Basic electronic Circuits              3                   0.00
+
+011           Total Semester Credits/Semester Grade Point Average (SGPA)	    1.75
+
+090           CSE100	 Fundamentals of Computer Programming	3	            4.00
+090           CSE101	 Object Oriented Programming Lab	1.5	            3.00
+090           MAT101	 Discrete Mathematics	                3		    0.00
+090           ECE104     Basic electronic Circuits              3                   0.00
+
+090           Total Semester Credits/Semester Grade Point Average (SGPA)	    1.75

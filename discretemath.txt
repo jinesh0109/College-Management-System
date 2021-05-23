@@ -1,0 +1,14 @@
+Course Description: Discrete Maths(MAT102)
+
+Course Credit :3 
+Faculty : Srikrishnan Divakaran
+
+
+This course aims to provide a rigorous introduction to the elementary concepts in Discrete Mathematics. 
+Topics include: Foundations of Logic and Proofs, Sets and Sequences,
+Algorithms and its analysis, Induction and Recursion, Counting, Relations, Trees, and Graphs.
+
+Course Objectives:
+A rigorous introduction to the elementary concepts in Discrete Mathematics.
+
+Apply elementary concepts in Discrete Mathematics to solve problems with applications in Computer Science

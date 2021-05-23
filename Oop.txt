@@ -1,0 +1,23 @@
+Course Description: Object Oriented Programming (OOP) (CSE 101)
+
+Course Credit :1.5
+Faculty : KuntalKumar Patel and Aditya Patel
+
+The course is aimed to provide exposure to object oriented programming paradigm and understand 
+fundamental concepts of object oriented programming (OOP). 
+The course will enable students to design and develop object oriented programs in high level programming 
+languages like Java.
+Following topics will be covered in the course:
+Fundamental concepts of object oriented programming, object oriented problem solving and 
+programming paradigm, designing object oriented programs using classes and objects:
+     primitive v/s object data types, Arrays, Understanding Java Platform, Environment and API Library; 
+     Static and Runtime Polymorphism; Inheritance; Exception Handling; Abstract Class, Packages,
+     File Handling; Event-driven Programming; Graphical User Interface development
+
+Course Objectives
+- To understand the object oriented paradigm and its advantages.
+- To understand fundamental concepts of object oriented programming like abstraction, 
+encapsulation, inheritance, polymorphism, aggregation among others.
+- Design and develop programs for engineering and real world problems.
+- Exposure with professional programming and best practices like reusable and modularized coding,
+ coding standards, conventions and source code documentation.

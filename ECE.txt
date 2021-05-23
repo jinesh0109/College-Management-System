@@ -1,0 +1,21 @@
+Course Description: Basic Electroic Circuits (ECE 104)
+Couse Credit :3
+Faculty:Ashok Ranade
+
+    Introduction: 
+Voltage and current sources.     
+Circuit theorems. 
+Time domain and Frequency domain concepts.       
+Bode plots. 
+Rise time bandwidth relationship.
+Operational Amplifiers.Linear ICs.
+Linear Op Amp Circuits.Filters.                  
+Non linear op amp circuits.
+Oscillators.    
+Regulated power supplies.       
+Transducers . 
+Electronic switches.      
+Introduction to digital circuits
+
+Course Objectives:
+To provide a sound base for understanding linear, nonlinear, passive and active circuits
