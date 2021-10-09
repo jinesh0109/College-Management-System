@@ -1,2 +1,2 @@
 # College-Management-System
-Build a College Management System using File Management concept in C language
+This is a college management system made using C language
