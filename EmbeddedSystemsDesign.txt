@@ -1,0 +1,23 @@
+Prerequisite Course Code: 
+CSE2XX Computer Organization and Architecture/CSE206 Computer Organization and Architecture, ECE209 Digital Design
+[ Students interested in studying this course should have studied (1) Computer Organization and Architecture (2) Digital Design ]
+
+Antirequisite Course Code None
+
+Course Description
+This course explores the design of embedded systems using AVR microcontrollers, widely used peripheral devices and C programming. The internal architecture and
+features (e.g., timers, interrupts and serial communication) of ATmega32 microcontroller will be discussed in detail. The interfacing of ATmega32 with widely used
+peripherals (e.g., LCD displays, keyboards, DC motors, etc.) using C programming will be performed. 
+
+GER Category NA
+
+Schedule
+
+Section 1
+Mon [11:00 to 12:30] [16-08-2021 to 26-11-2021]
+Fri [13:00 to 14:30] [16-08-2021 to 26-11-2021]
+Fri [11:00 to 12:30] [16-08-2021 to 26-11-2021]
+Section 2
+Tue [11:00 to 12:30] [16-08-2021 to 26-11-2021]
+Tue [13:00 to 14:30] [16-08-2021 to 26-11-2021]
+Thu [11:00 to 12:30] [16-08-2021 to 26-11-2021]
